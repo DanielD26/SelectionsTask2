@@ -14,3 +14,19 @@ C:\Users\Daniel\SelectionsTask2\obj\Debug\net5.0\SelectionsTask2.dll
 C:\Users\Daniel\SelectionsTask2\obj\Debug\net5.0\ref\SelectionsTask2.dll
 C:\Users\Daniel\SelectionsTask2\obj\Debug\net5.0\SelectionsTask2.pdb
 C:\Users\Daniel\SelectionsTask2\obj\Debug\net5.0\SelectionsTask2.genruntimeconfig.cache
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\bin\Debug\net5.0\SelectionsTask2.exe
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\bin\Debug\net5.0\SelectionsTask2.deps.json
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\bin\Debug\net5.0\SelectionsTask2.runtimeconfig.json
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\bin\Debug\net5.0\SelectionsTask2.runtimeconfig.dev.json
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\bin\Debug\net5.0\SelectionsTask2.dll
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\bin\Debug\net5.0\ref\SelectionsTask2.dll
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\bin\Debug\net5.0\SelectionsTask2.pdb
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\obj\Debug\net5.0\SelectionsTask2.csprojAssemblyReference.cache
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\obj\Debug\net5.0\SelectionsTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\obj\Debug\net5.0\SelectionsTask2.AssemblyInfoInputs.cache
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\obj\Debug\net5.0\SelectionsTask2.AssemblyInfo.cs
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\obj\Debug\net5.0\SelectionsTask2.csproj.CoreCompileInputs.cache
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\obj\Debug\net5.0\SelectionsTask2.dll
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\obj\Debug\net5.0\ref\SelectionsTask2.dll
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\obj\Debug\net5.0\SelectionsTask2.pdb
+C:\Users\User.LAPTOP-FFPB3O9J\Desktop\Swinburne\Web Development\SelectionsTask2\obj\Debug\net5.0\SelectionsTask2.genruntimeconfig.cache
